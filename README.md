@@ -20,7 +20,9 @@ Then add **hubot-slothme** to your `external-scripts.json`:
 
 ```
 user1>> hubot sloth me
-hubot>> EDIT
+hubot>> http://i.imgur.com/iCatpXJ.jpg
 user1>> hubot end sprint
-hubot>> EDIT
+hubot>> http://i.imgur.com/1sonqsf.jpg
+user1>> hubot sprint ended
+hubot>> http://i.imgur.com/RRaxXB3.jpg
 ```
