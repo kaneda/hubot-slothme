@@ -1,6 +1,6 @@
 # hubot-slothme
 
-Slothme is the second-most important hubot script (after [`https://github.com/hubot-scripts/hubot-pugme`](Pugme).
+Slothme is the second-most important hubot script (after [`Pug me`](https://github.com/hubot-scripts/hubot-pugme).
 
 ## Installation
 
