@@ -14,7 +14,7 @@
 
 module.exports = (robot) ->
 
-  var slothArray = [
+  slothArray = [
     "http://i.imgur.com/tUmk08x.jpg",
     "http://i.imgur.com/YijnkMV.jpg",
     "http://i.imgur.com/GrsI36Z.png",
